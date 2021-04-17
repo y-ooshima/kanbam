@@ -16,7 +16,7 @@
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/top.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/button.css') }}" rel="stylesheet">
-    <!-- <link href="{{ asset('css/common.css') }}" rel="stylesheet"> -->
+    <!-- <link href="{{ secure_asset('css/common.css') }}" rel="stylesheet"> -->
     <link href="{{ secure_asset('css/header.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/card_edit.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/card_new.css') }}" rel="stylesheet">
